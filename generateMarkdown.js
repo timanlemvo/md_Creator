@@ -15,8 +15,6 @@ ${data.Description}
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
 * [Tests](#tests)
 
 * [Questions](#questions)
@@ -32,10 +30,6 @@ The following necessary dependencies must be installed to run the application pr
 # License
 
 This project is license under the ${data.License} license.
-
-# Contributing
-
-​Contributors: ${data.Contributor}
 
 # Tests
 

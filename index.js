@@ -40,12 +40,6 @@ const questions = [
     message: "What license was used for this README?",
     name: "License",
   },
-
-  {
-    type: "input",
-    message: "Please add contributors",
-    name: "Contributor",
-  },
   {
     type: "input",
     message: "What command do you use to test this App?",
